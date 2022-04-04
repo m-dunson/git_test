@@ -1,0 +1,8 @@
+dont know what I'm doing
+git status
+cd
+cat < hello_world.txt
+cd ~/repos
+
+
+cd
